@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Saiyans Blog
     url: https://blog.saiyans.com.ve
-  - name: Project-Casa de cambio
-    url: https://api.lagocha2020.com  
+  - name: Project-Kualinet
+    url: https://api1.kualinet.com 
   - name: Project-Virtual Room
     url: https://virtualroom.abc-ehr.com
   - name: Bitwarden
