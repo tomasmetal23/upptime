@@ -17,8 +17,6 @@ sites:
     port: 53
   - name: Meet Saiyans
     url: https://meet.saiyans.com.ve
-  - name: Jenkins Saiyans
-    url: https://jenkins.saiyans.com.ve
   - name: Https file mirror
     url: https://mirror.saiyans.com.ve
   - name: Real-time Markdown editor
@@ -38,8 +36,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Saiyans Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data of the projects where Tomás A. Marquez L. has worked.
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub. Dan❤️"
+  introMessage: This is a sample status page which uses **real-time** data of the projects where Tomás A. Márquez L. has worked.
   navbar:
     - title: Status
       href: /
