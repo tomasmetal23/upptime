@@ -6,7 +6,7 @@ sites:
   - name: Saiyans Blog
     url: https://blog.saiyans.com.ve
   - name: Project-Casa de cambio
-    url: https://lagocha2020.com  
+    url: https://api.lagocha2020.com  
   - name: Project-Virtual Room
     url: https://virtualroom.abc-ehr.com
   - name: Bitwarden
