@@ -24,7 +24,7 @@ sites:
   - name: Real-time Markdown editor
     url: https://notas.saiyans.com.ve
   - name: VPN Saiyans
-    check: "udp-ping"
+    check: "tcp-ping"
     url: 104.238.137.12
     port: 51820
     
