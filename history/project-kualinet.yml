@@ -1,7 +1,7 @@
 url: https://api1.kualinet.com
-status: down
-code: 502
-responseTime: 205
-lastUpdated: 2022-05-02T20:31:52.478Z
+status: up
+code: 200
+responseTime: 210
+lastUpdated: 2022-05-02T20:57:01.037Z
 startTime: Fri Apr 08 2022 19:56:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
