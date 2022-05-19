@@ -29,11 +29,11 @@
     "icon": "https://favicons.githubusercontent.com/api1.kualinet.com",
     "slug": "project-kualinet",
     "status": "up",
-    "uptime": "92.42%",
+    "uptime": "92.43%",
     "uptimeDay": "59.41%",
     "uptimeWeek": "93.68%",
     "uptimeMonth": "89.97%",
-    "uptimeYear": "92.42%",
+    "uptimeYear": "92.43%",
     "time": 229,
     "timeDay": 238,
     "timeWeek": 232,
@@ -100,10 +100,10 @@
     "url": "104.238.137.12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-saiyans",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 0,
@@ -111,7 +111,9 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-19": 1
+    }
   },
   {
     "name": "Meet Saiyans",
@@ -165,11 +167,11 @@
     "icon": "https://favicons.githubusercontent.com/notas.saiyans.com.ve",
     "slug": "real-time-markdown-editor",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.43%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 685,
     "timeDay": 195,
     "timeWeek": 463,
@@ -187,9 +189,9 @@
     "url": "104.238.137.12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vpn-saiyans",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -198,6 +200,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-19": 0
+    }
   }
 ]
