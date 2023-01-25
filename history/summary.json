@@ -8,7 +8,7 @@
     "uptime": "94.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.63%",
+    "uptimeMonth": "74.60%",
     "uptimeYear": "94.05%",
     "time": 6027,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 9425,
     "timeYear": 6027,
     "dailyMinutesDown": {
-      "2023-01-25": 527,
+      "2023-01-25": 542,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -142,19 +142,19 @@
     "url": "https://virtualroom.abc-ehr.com",
     "icon": "https://icons.duckduckgo.com/ip3/virtualroom.abc-ehr.com.ico",
     "slug": "project-virtual-room",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 162,
-    "timeWeek": 332,
-    "timeMonth": 368,
-    "timeYear": 381,
+    "time": 382,
+    "timeDay": 344,
+    "timeWeek": 357,
+    "timeMonth": 372,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 12
     }
   },
   {
@@ -174,7 +174,7 @@
     "timeMonth": 438,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2023-01-25": 528,
+      "2023-01-25": 542,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -239,7 +239,7 @@
     "timeMonth": 259,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-01-25": 528,
+      "2023-01-25": 542,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -292,7 +292,7 @@
     "uptime": "96.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.63%",
+    "uptimeMonth": "74.60%",
     "uptimeYear": "96.45%",
     "time": 702,
     "timeDay": 0,
@@ -300,7 +300,7 @@
     "timeMonth": 861,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-01-25": 528,
+      "2023-01-25": 542,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
