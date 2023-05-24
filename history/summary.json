@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.saiyans.com.ve.ico",
     "slug": "saiyans-blog",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.14%",
-    "time": 6760,
-    "timeDay": 9580,
-    "timeWeek": 8300,
-    "timeMonth": 8118,
-    "timeYear": 7340,
+    "time": 6765,
+    "timeDay": 9261,
+    "timeWeek": 8253,
+    "timeMonth": 7958,
+    "timeYear": 7351,
     "dailyMinutesDown": {
       "2023-01-26": 996,
       "2023-01-25": 1440,
@@ -56,8 +56,7 @@
       "2022-06-16": 286,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
-      "2022-06-13": 1268,
-      "2022-05-24": 93
+      "2022-06-13": 1268
     }
   },
   {
@@ -66,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api1.kualinet.com.ico",
     "slug": "project-kualinet",
     "status": "up",
-    "uptime": "93.94%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.77%",
     "uptimeYear": "94.05%",
     "time": 261,
-    "timeDay": 167,
-    "timeWeek": 204,
-    "timeMonth": 371,
+    "timeDay": 277,
+    "timeWeek": 220,
+    "timeMonth": 372,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2023-05-02": 928,
@@ -139,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 297,
-    "timeWeek": 398,
-    "timeMonth": 384,
-    "timeYear": 391,
+    "timeDay": 439,
+    "timeWeek": 414,
+    "timeMonth": 387,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   },
   {
@@ -151,15 +150,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "93.87%",
+    "uptime": "93.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.28%",
     "time": 277,
-    "timeDay": 241,
-    "timeWeek": 245,
-    "timeMonth": 261,
+    "timeDay": 193,
+    "timeWeek": 237,
+    "timeMonth": 257,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2023-01-27": 1106,
@@ -203,8 +202,7 @@
       "2022-10-18": 75,
       "2022-10-17": 121,
       "2022-10-11": 37,
-      "2022-05-25": 31,
-      "2022-05-24": 92
+      "2022-05-25": 31
     }
   },
   {
@@ -213,15 +211,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.saiyans.com.ve.ico",
     "slug": "https-file-mirror",
     "status": "up",
-    "uptime": "93.93%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.33%",
-    "time": 264,
-    "timeDay": 245,
-    "timeWeek": 221,
-    "timeMonth": 247,
+    "time": 263,
+    "timeDay": 204,
+    "timeWeek": 216,
+    "timeMonth": 243,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2023-01-27": 1106,
@@ -262,8 +260,7 @@
       "2022-10-21": 122,
       "2022-10-19": 196,
       "2022-10-17": 65,
-      "2022-10-14": 22,
-      "2022-05-24": 72
+      "2022-10-14": 22
     }
   },
   {
@@ -278,10 +275,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.93%",
     "time": 705,
-    "timeDay": 650,
-    "timeWeek": 662,
-    "timeMonth": 672,
-    "timeYear": 712,
+    "timeDay": 635,
+    "timeWeek": 654,
+    "timeMonth": 668,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2023-01-26": 1022,
       "2023-01-25": 1440,
@@ -308,8 +305,7 @@
       "2022-10-21": 186,
       "2022-10-19": 195,
       "2022-10-17": 120,
-      "2022-10-14": 21,
-      "2022-05-24": 71
+      "2022-10-14": 21
     }
   }
 ]
