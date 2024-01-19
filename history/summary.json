@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.saiyans.com.ve.ico",
     "slug": "saiyans-blog",
     "status": "up",
-    "uptime": "80.43%",
+    "uptime": "80.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.07%",
-    "time": 5627,
-    "timeDay": 2441,
-    "timeWeek": 3230,
-    "timeMonth": 2545,
-    "timeYear": 4655,
+    "uptimeYear": "68.16%",
+    "time": 5613,
+    "timeDay": 2963,
+    "timeWeek": 3201,
+    "timeMonth": 2592,
+    "timeYear": 4650,
     "dailyMinutesDown": {
       "2023-12-07": 67,
       "2023-12-06": 314,
@@ -135,8 +135,7 @@
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
-      "2023-01-20": 1440,
-      "2023-01-19": 1440
+      "2023-01-20": 1440
     }
   },
   {
@@ -146,17 +145,16 @@
     "slug": "project-kualinet",
     "status": "up",
     "uptime": "95.20%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "97.21%",
     "time": 283,
-    "timeDay": 254,
-    "timeWeek": 231,
+    "timeDay": 233,
+    "timeWeek": 226,
     "timeMonth": 248,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-01-18": 12,
       "2024-01-13": 25,
       "2023-11-22": 37,
       "2023-10-18": 22,
@@ -211,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 396,
-    "timeDay": 539,
-    "timeWeek": 402,
-    "timeMonth": 425,
-    "timeYear": 395,
+    "timeDay": 255,
+    "timeWeek": 363,
+    "timeMonth": 416,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2023-07-12": 100,
       "2023-06-09": 992,
@@ -231,11 +229,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.65%",
+    "uptimeYear": "93.74%",
     "time": 344,
-    "timeDay": 390,
-    "timeWeek": 397,
-    "timeMonth": 379,
+    "timeDay": 473,
+    "timeWeek": 410,
+    "timeMonth": 385,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2023-12-07": 327,
@@ -266,8 +264,7 @@
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
-      "2023-01-20": 1440,
-      "2023-01-19": 1440
+      "2023-01-20": 1440
     }
   },
   {
@@ -276,15 +273,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.saiyans.com.ve.ico",
     "slug": "https-file-mirror",
     "status": "up",
-    "uptime": "95.04%",
+    "uptime": "95.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.50%",
+    "uptimeYear": "95.59%",
     "time": 293,
-    "timeDay": 267,
-    "timeWeek": 303,
-    "timeMonth": 321,
+    "timeDay": 497,
+    "timeWeek": 333,
+    "timeMonth": 330,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2023-12-07": 53,
@@ -310,8 +307,7 @@
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
-      "2023-01-20": 1440,
-      "2023-01-19": 1440
+      "2023-01-20": 1440
     }
   },
   {
@@ -324,11 +320,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.97%",
+    "uptimeYear": "94.06%",
     "time": 1191,
-    "timeDay": 1117,
-    "timeWeek": 860,
-    "timeMonth": 924,
+    "timeDay": 1082,
+    "timeWeek": 894,
+    "timeMonth": 939,
     "timeYear": 1306,
     "dailyMinutesDown": {
       "2023-12-07": 65,
@@ -359,8 +355,7 @@
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
-      "2023-01-20": 1440,
-      "2023-01-19": 1440
+      "2023-01-20": 1440
     }
   }
 ]
