@@ -1,7 +1,7 @@
 url: https://notas.saiyans.com.ve
-status: up
-code: 200
-responseTime: 4407
-lastUpdated: 2024-01-26T07:59:17.794Z
+status: down
+code: 503
+responseTime: 25279
+lastUpdated: 2024-01-26T08:25:08.632Z
 startTime: 2022-04-08T18:12:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
