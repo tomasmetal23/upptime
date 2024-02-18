@@ -336,17 +336,17 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "96.95%",
-    "uptimeDay": "47.96%",
+    "status": "down",
+    "uptime": "96.96%",
+    "uptimeDay": "47.95%",
     "uptimeWeek": "88.73%",
     "uptimeMonth": "77.74%",
-    "uptimeYear": "94.31%",
-    "time": 3347,
-    "timeDay": 8916,
-    "timeWeek": 6121,
-    "timeMonth": 7148,
-    "timeYear": 3941,
+    "uptimeYear": "94.32%",
+    "time": 3354,
+    "timeDay": 8805,
+    "timeWeek": 6113,
+    "timeMonth": 7142,
+    "timeYear": 3944,
     "dailyMinutesDown": {
       "2024-02-18": 561,
       "2024-02-17": 188,
@@ -391,8 +391,7 @@
       "2023-09-16": 1440,
       "2023-09-15": 576,
       "2023-08-28": 25,
-      "2023-06-21": 51,
-      "2023-05-25": 82
+      "2023-06-21": 51
     }
   }
 ]
