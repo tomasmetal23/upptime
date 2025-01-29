@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-01-29": 707,
+      "2025-01-29": 719,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -436,7 +436,7 @@
     "timeMonth": 185,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2025-01-29": 594,
+      "2025-01-29": 607,
       "2025-01-28": 1412,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -889,19 +889,19 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "76.68%",
-    "uptimeDay": "1.97%",
-    "uptimeWeek": "0.28%",
+    "status": "down",
+    "uptime": "76.70%",
+    "uptimeDay": "2.82%",
+    "uptimeWeek": "0.40%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.41%",
+    "uptimeYear": "34.45%",
     "time": 3143,
-    "timeDay": 290,
-    "timeWeek": 205,
-    "timeMonth": 255,
-    "timeYear": 3083,
+    "timeDay": 256,
+    "timeWeek": 197,
+    "timeMonth": 253,
+    "timeYear": 3079,
     "dailyMinutesDown": {
-      "2025-01-29": 706,
+      "2025-01-29": 707,
       "2025-01-28": 1412,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1156,8 +1156,7 @@
       "2024-02-04": 475,
       "2024-02-03": 1440,
       "2024-02-02": 1350,
-      "2024-02-01": 397,
-      "2024-01-31": 209
+      "2024-02-01": 397
     }
   }
 ]
