@@ -230,8 +230,7 @@
       "2024-02-16": 57,
       "2024-02-09": 432,
       "2024-02-08": 172,
-      "2024-02-07": 170,
-      "2024-02-06": 3
+      "2024-02-07": 170
     }
   },
   {
@@ -292,14 +291,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.11%",
+    "uptimeYear": "67.10%",
     "time": 415,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-02-04": 1409,
+      "2025-02-05": 51,
+      "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -428,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "76.66%",
+    "uptime": "76.65%",
     "uptimeDay": "13.08%",
     "uptimeWeek": "14.44%",
     "uptimeMonth": "2.24%",
-    "uptimeYear": "33.99%",
+    "uptimeYear": "33.98%",
     "time": 1510,
     "timeDay": 188,
     "timeWeek": 203,
     "timeMonth": 196,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-02-04": 1221,
+      "2025-02-05": 51,
+      "2025-02-04": 1252,
       "2025-02-03": 1164,
       "2025-02-02": 1230,
       "2025-02-01": 1138,
@@ -689,8 +690,7 @@
       "2024-02-16": 24,
       "2024-02-09": 348,
       "2024-02-08": 50,
-      "2024-02-07": 119,
-      "2024-02-06": 2
+      "2024-02-07": 119
     }
   },
   {
@@ -891,18 +891,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
     "status": "down",
-    "uptime": "76.67%",
+    "uptime": "76.66%",
     "uptimeDay": "15.63%",
     "uptimeWeek": "13.58%",
     "uptimeMonth": "1.98%",
-    "uptimeYear": "33.95%",
+    "uptimeYear": "33.93%",
     "time": 2831,
     "timeDay": 373,
     "timeWeek": 421,
     "timeMonth": 369,
     "timeYear": 2252,
     "dailyMinutesDown": {
-      "2025-02-04": 1183,
+      "2025-02-05": 51,
+      "2025-02-04": 1214,
       "2025-02-03": 1188,
       "2025-02-02": 966,
       "2025-02-01": 1209,
