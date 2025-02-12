@@ -284,7 +284,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/virtualroom.abc-ehr.com.ico",
     "slug": "project-virtual-room",
     "status": "down",
-    "uptime": "87.64%",
+    "uptime": "87.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-02-12": 1071,
+      "2025-02-12": 1099,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -443,7 +443,7 @@
     "timeMonth": 198,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-02-12": 1059,
+      "2025-02-12": 1086,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -895,17 +895,17 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "76.19%",
-    "uptimeDay": "0.89%",
-    "uptimeWeek": "2.67%",
-    "uptimeMonth": "2.87%",
-    "uptimeYear": "32.10%",
-    "time": 2472,
-    "timeDay": 417,
-    "timeWeek": 333,
-    "timeMonth": 366,
-    "timeYear": 1412,
+    "status": "down",
+    "uptime": "76.20%",
+    "uptimeDay": "2.77%",
+    "uptimeWeek": "2.85%",
+    "uptimeMonth": "2.93%",
+    "uptimeYear": "32.11%",
+    "time": 2465,
+    "timeDay": 362,
+    "timeWeek": 325,
+    "timeMonth": 365,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2025-02-12": 1058,
       "2025-02-11": 1440,
@@ -1161,7 +1161,7 @@
       "2024-02-25": 28,
       "2024-02-20": 408,
       "2024-02-19": 252,
-      "2024-02-18": 155
+      "2024-02-18": 80
     }
   }
 ]
