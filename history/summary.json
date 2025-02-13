@@ -288,14 +288,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.70%",
+    "uptimeYear": "64.69%",
     "time": 416,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-02-13": 1119,
+      "2025-02-13": 1151,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -432,15 +432,15 @@
     "url": "https://bitwarden.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "76.11%",
-    "uptimeDay": "5.08%",
-    "uptimeWeek": "0.98%",
-    "uptimeMonth": "3.25%",
+    "uptimeDay": "7.30%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "3.32%",
     "uptimeYear": "31.80%",
-    "time": 1099,
+    "time": 1092,
     "timeDay": 202,
-    "timeWeek": 180,
+    "timeWeek": 181,
     "timeMonth": 198,
     "timeYear": 298,
     "dailyMinutesDown": {
@@ -699,7 +699,7 @@
       "2024-02-26": 109,
       "2024-02-20": 357,
       "2024-02-19": 135,
-      "2024-02-18": 99
+      "2024-02-18": 75
     }
   },
   {
@@ -908,7 +908,7 @@
     "timeMonth": 366,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2025-02-13": 948,
+      "2025-02-13": 981,
       "2025-02-12": 1382,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
