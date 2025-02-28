@@ -284,7 +284,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-02-28": 1020,
+      "2025-02-28": 1043,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -436,16 +436,16 @@
     "url": "https://bitwarden.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "97.28%",
-    "uptimeDay": "23.42%",
-    "uptimeWeek": "6.04%",
-    "uptimeMonth": "5.53%",
+    "uptimeDay": "24.99%",
+    "uptimeWeek": "6.24%",
+    "uptimeMonth": "5.58%",
     "uptimeYear": "92.13%",
-    "time": 1185,
+    "time": 1176,
     "timeDay": 216,
-    "timeWeek": 201,
-    "timeMonth": 201,
+    "timeWeek": 203,
+    "timeMonth": 202,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-02-28": 742,
@@ -478,7 +478,7 @@
       "2025-02-01": 1138,
       "2025-01-31": 1202,
       "2025-01-30": 1352,
-      "2025-01-29": 1055
+      "2025-01-29": 1033
     }
   },
   {
@@ -671,16 +671,16 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "97.44%",
-    "uptimeDay": "24.23%",
+    "status": "down",
+    "uptime": "97.45%",
+    "uptimeDay": "25.23%",
     "uptimeWeek": "6.50%",
-    "uptimeMonth": "11.19%",
-    "uptimeYear": "92.60%",
-    "time": 1595,
-    "timeDay": 516,
-    "timeWeek": 490,
-    "timeMonth": 413,
+    "uptimeMonth": "11.44%",
+    "uptimeYear": "92.62%",
+    "time": 1589,
+    "timeDay": 514,
+    "timeWeek": 483,
+    "timeMonth": 411,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-02-28": 787,
@@ -712,7 +712,7 @@
       "2025-02-02": 966,
       "2025-02-01": 1209,
       "2025-01-31": 1343,
-      "2025-01-30": 183
+      "2025-01-30": 74
     }
   }
 ]
