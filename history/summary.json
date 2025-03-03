@@ -284,7 +284,7 @@
     "timeMonth": 0,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-03-03": 1356,
+      "2025-03-03": 1369,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -439,16 +439,16 @@
     "url": "https://bitwarden.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "97.52%",
-    "uptimeDay": "33.68%",
-    "uptimeWeek": "18.95%",
-    "uptimeMonth": "14.56%",
-    "uptimeYear": "92.80%",
-    "time": 1053,
-    "timeDay": 234,
-    "timeWeek": 225,
-    "timeMonth": 211,
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "33.66%",
+    "uptimeWeek": "19.07%",
+    "uptimeMonth": "14.55%",
+    "uptimeYear": "92.85%",
+    "time": 1045,
+    "timeDay": 231,
+    "timeWeek": 224,
+    "timeMonth": 210,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-03-03": 932,
@@ -479,7 +479,7 @@
       "2025-02-06": 1235,
       "2025-02-05": 1288,
       "2025-02-04": 1252,
-      "2025-02-03": 448
+      "2025-02-03": 188
     }
   },
   {
@@ -672,16 +672,16 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "16.53%",
-    "uptimeWeek": "14.48%",
-    "uptimeMonth": "13.95%",
-    "uptimeYear": "92.75%",
-    "time": 1133,
-    "timeDay": 596,
-    "timeWeek": 490,
-    "timeMonth": 432,
+    "status": "down",
+    "uptime": "97.51%",
+    "uptimeDay": "17.39%",
+    "uptimeWeek": "14.60%",
+    "uptimeMonth": "13.98%",
+    "uptimeYear": "92.76%",
+    "time": 1129,
+    "timeDay": 574,
+    "timeWeek": 487,
+    "timeMonth": 430,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-03-03": 1135,
@@ -712,7 +712,7 @@
       "2025-02-06": 1255,
       "2025-02-05": 1247,
       "2025-02-04": 1214,
-      "2025-02-03": 520
+      "2025-02-03": 452
     }
   }
 ]
