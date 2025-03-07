@@ -277,14 +277,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "58.76%",
+    "uptimeYear": "58.75%",
     "time": 421,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-03-07": 688,
+      "2025-03-07": 701,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -443,15 +443,15 @@
     "url": "https://bitwarden.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "36.89%",
-    "uptimeWeek": "30.34%",
-    "uptimeMonth": "81.78%",
-    "uptimeYear": "98.48%",
+    "uptimeDay": "37.77%",
+    "uptimeWeek": "30.43%",
+    "uptimeMonth": "81.87%",
+    "uptimeYear": "98.49%",
     "time": 430,
-    "timeDay": 232,
-    "timeWeek": 224,
+    "timeDay": 229,
+    "timeWeek": 223,
     "timeMonth": 216,
     "timeYear": 201,
     "dailyMinutesDown": {
@@ -463,7 +463,7 @@
       "2025-03-02": 1031,
       "2025-03-01": 956,
       "2025-02-28": 966,
-      "2025-02-27": 466
+      "2025-02-27": 423
     }
   },
   {
@@ -656,17 +656,17 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "23.23%",
-    "uptimeWeek": "24.17%",
-    "uptimeMonth": "61.62%",
-    "uptimeYear": "96.80%",
-    "time": 1090,
-    "timeDay": 462,
-    "timeWeek": 495,
-    "timeMonth": 472,
-    "timeYear": 365,
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "23.63%",
+    "uptimeWeek": "24.29%",
+    "uptimeMonth": "61.75%",
+    "uptimeYear": "96.81%",
+    "time": 1084,
+    "timeDay": 443,
+    "timeWeek": 493,
+    "timeMonth": 470,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2025-03-07": 566,
       "2025-03-06": 950,
@@ -682,7 +682,7 @@
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1309,
-      "2025-02-21": 291
+      "2025-02-21": 232
     }
   }
 ]
