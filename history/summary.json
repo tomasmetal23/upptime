@@ -273,7 +273,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/virtualroom.abc-ehr.com.ico",
     "slug": "project-virtual-room",
     "status": "down",
-    "uptime": "85.75%",
+    "uptime": "85.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -284,7 +284,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-03-07": 1011,
+      "2025-03-07": 1032,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -443,15 +443,15 @@
     "url": "https://bitwarden.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "24.98%",
-    "uptimeWeek": "29.77%",
-    "uptimeMonth": "81.55%",
-    "uptimeYear": "98.46%",
-    "time": 953,
-    "timeDay": 215,
-    "timeWeek": 223,
+    "uptimeDay": "26.34%",
+    "uptimeWeek": "29.85%",
+    "uptimeMonth": "81.59%",
+    "uptimeYear": "98.47%",
+    "time": 939,
+    "timeDay": 210,
+    "timeWeek": 222,
     "timeMonth": 215,
     "timeYear": 200,
     "dailyMinutesDown": {
@@ -463,7 +463,7 @@
       "2025-03-02": 1031,
       "2025-03-01": 956,
       "2025-02-28": 966,
-      "2025-02-27": 268
+      "2025-02-27": 250
     }
   },
   {
@@ -656,17 +656,17 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "25.02%",
-    "uptimeWeek": "24.32%",
-    "uptimeMonth": "61.35%",
-    "uptimeYear": "96.78%",
-    "time": 1074,
-    "timeDay": 452,
-    "timeWeek": 493,
-    "timeMonth": 470,
-    "timeYear": 365,
+    "uptimeDay": "26.45%",
+    "uptimeWeek": "24.40%",
+    "uptimeMonth": "61.46%",
+    "uptimeYear": "96.79%",
+    "time": 1068,
+    "timeDay": 436,
+    "timeWeek": 486,
+    "timeMonth": 468,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2025-03-07": 796,
       "2025-03-06": 950,
@@ -682,7 +682,7 @@
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1309,
-      "2025-02-21": 175
+      "2025-02-21": 127
     }
   }
 ]
