@@ -230,9 +230,9 @@
     "slug": "project-kualinet",
     "status": "down",
     "uptime": "96.79%",
-    "uptimeDay": "27.15%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "26.17%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "98.84%",
     "time": 275,
     "timeDay": 3198,
@@ -240,7 +240,7 @@
     "timeMonth": 474,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-03-11": 682,
+      "2025-03-11": 696,
       "2025-03-10": 367,
       "2025-02-01": 113,
       "2025-01-31": 13,
@@ -286,7 +286,7 @@
     "timeMonth": 0,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-03-11": 682,
+      "2025-03-11": 696,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -449,14 +449,14 @@
     "url": "https://bitwarden.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "23.21%",
-    "uptimeWeek": "28.30%",
-    "uptimeMonth": "82.22%",
-    "uptimeYear": "98.52%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "23.27%",
+    "uptimeWeek": "28.44%",
+    "uptimeMonth": "82.61%",
+    "uptimeYear": "98.55%",
     "time": 760,
-    "timeDay": 224,
+    "timeDay": 226,
     "timeWeek": 219,
     "timeMonth": 216,
     "timeYear": 202,
@@ -468,8 +468,7 @@
       "2025-03-07": 1036,
       "2025-03-06": 1048,
       "2025-03-05": 1004,
-      "2025-03-04": 1077,
-      "2025-03-03": 7
+      "2025-03-04": 916
     }
   },
   {
@@ -662,17 +661,17 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "19.37%",
-    "uptimeWeek": "27.29%",
-    "uptimeMonth": "81.40%",
-    "uptimeYear": "98.45%",
-    "time": 1289,
+    "uptimeDay": "20.25%",
+    "uptimeWeek": "27.43%",
+    "uptimeMonth": "81.47%",
+    "uptimeYear": "98.46%",
+    "time": 1284,
     "timeDay": 518,
-    "timeWeek": 471,
+    "timeWeek": 470,
     "timeMonth": 471,
-    "timeYear": 378,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-03-11": 536,
       "2025-03-10": 1002,
@@ -682,7 +681,7 @@
       "2025-03-06": 950,
       "2025-03-05": 1128,
       "2025-03-04": 1084,
-      "2025-03-03": 277
+      "2025-03-03": 246
     }
   }
 ]
