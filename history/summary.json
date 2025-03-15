@@ -231,8 +231,8 @@
     "status": "down",
     "uptime": "96.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.66%",
-    "uptimeMonth": "84.04%",
+    "uptimeWeek": "30.38%",
+    "uptimeMonth": "83.98%",
     "uptimeYear": "97.71%",
     "time": 297,
     "timeDay": 3358,
@@ -240,7 +240,7 @@
     "timeMonth": 904,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-03-15": 862,
+      "2025-03-15": 890,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2025-03-15": 862,
+      "2025-03-15": 890,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -461,7 +461,7 @@
     "uptime": "99.33%",
     "uptimeDay": "17.72%",
     "uptimeWeek": "19.77%",
-    "uptimeMonth": "76.39%",
+    "uptimeMonth": "76.32%",
     "uptimeYear": "98.03%",
     "time": 415,
     "timeDay": 183,
@@ -469,7 +469,7 @@
     "timeMonth": 214,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-03-15": 679,
+      "2025-03-15": 707,
       "2025-03-14": 1370,
       "2025-03-13": 1440,
       "2025-03-12": 1113,
@@ -671,16 +671,16 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "24.64%",
-    "uptimeWeek": "19.38%",
-    "uptimeMonth": "75.29%",
-    "uptimeYear": "97.94%",
-    "time": 995,
-    "timeDay": 572,
-    "timeWeek": 498,
-    "timeMonth": 489,
+    "uptimeDay": "26.56%",
+    "uptimeWeek": "19.60%",
+    "uptimeMonth": "75.47%",
+    "uptimeYear": "97.96%",
+    "time": 991,
+    "timeDay": 554,
+    "timeWeek": 493,
+    "timeMonth": 488,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2025-03-15": 641,
@@ -692,7 +692,7 @@
       "2025-03-09": 1025,
       "2025-03-08": 991,
       "2025-03-07": 1157,
-      "2025-03-06": 887
+      "2025-03-06": 807
     }
   }
 ]
