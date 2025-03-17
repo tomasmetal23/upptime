@@ -231,8 +231,8 @@
     "status": "down",
     "uptime": "96.24%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.57%",
-    "uptimeMonth": "77.58%",
+    "uptimeWeek": "2.43%",
+    "uptimeMonth": "77.55%",
     "uptimeYear": "97.17%",
     "time": 309,
     "timeDay": 3368,
@@ -240,7 +240,7 @@
     "timeMonth": 1120,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-03-17": 813,
+      "2025-03-17": 828,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 0,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-03-17": 813,
+      "2025-03-17": 828,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -464,8 +464,8 @@
     "status": "down",
     "uptime": "99.30%",
     "uptimeDay": "27.53%",
-    "uptimeWeek": "18.53%",
-    "uptimeMonth": "75.22%",
+    "uptimeWeek": "18.40%",
+    "uptimeMonth": "75.19%",
     "uptimeYear": "97.93%",
     "time": 661,
     "timeDay": 207,
@@ -473,7 +473,7 @@
     "timeMonth": 214,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-03-17": 625,
+      "2025-03-17": 640,
       "2025-03-16": 1002,
       "2025-03-15": 1152,
       "2025-03-14": 1370,
@@ -676,16 +676,16 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "48.05%",
-    "uptimeWeek": "18.91%",
-    "uptimeMonth": "74.76%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "48.41%",
+    "uptimeWeek": "19.05%",
+    "uptimeMonth": "74.83%",
     "uptimeYear": "97.90%",
-    "time": 1104,
+    "time": 1098,
     "timeDay": 488,
-    "timeWeek": 516,
-    "timeMonth": 489,
+    "timeWeek": 514,
+    "timeMonth": 488,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-03-17": 467,
@@ -698,7 +698,7 @@
       "2025-03-10": 1002,
       "2025-03-09": 1025,
       "2025-03-08": 991,
-      "2025-03-07": 361
+      "2025-03-07": 329
     }
   }
 ]
