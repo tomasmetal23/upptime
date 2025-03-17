@@ -231,8 +231,8 @@
     "status": "down",
     "uptime": "96.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.56%",
-    "uptimeMonth": "78.27%",
+    "uptimeWeek": "5.39%",
+    "uptimeMonth": "78.23%",
     "uptimeYear": "97.23%",
     "time": 309,
     "timeDay": 3368,
@@ -240,7 +240,7 @@
     "timeMonth": 1120,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-03-17": 513,
+      "2025-03-17": 530,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 0,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-03-17": 513,
+      "2025-03-17": 530,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -465,7 +465,7 @@
     "uptime": "99.31%",
     "uptimeDay": "28.42%",
     "uptimeWeek": "19.08%",
-    "uptimeMonth": "75.70%",
+    "uptimeMonth": "75.66%",
     "uptimeYear": "97.97%",
     "time": 663,
     "timeDay": 201,
@@ -473,7 +473,7 @@
     "timeMonth": 214,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-03-17": 337,
+      "2025-03-17": 354,
       "2025-03-16": 1002,
       "2025-03-15": 1152,
       "2025-03-14": 1370,
@@ -676,17 +676,17 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "43.43%",
+    "uptimeDay": "44.02%",
     "uptimeWeek": "19.23%",
-    "uptimeMonth": "74.56%",
-    "uptimeYear": "97.88%",
-    "time": 1138,
-    "timeDay": 476,
-    "timeWeek": 509,
+    "uptimeMonth": "74.71%",
+    "uptimeYear": "97.89%",
+    "time": 1121,
+    "timeDay": 479,
+    "timeWeek": 505,
     "timeMonth": 488,
-    "timeYear": 392,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2025-03-17": 258,
       "2025-03-16": 917,
@@ -698,7 +698,7 @@
       "2025-03-10": 1002,
       "2025-03-09": 1025,
       "2025-03-08": 991,
-      "2025-03-07": 658
+      "2025-03-07": 591
     }
   }
 ]
