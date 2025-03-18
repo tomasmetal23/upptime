@@ -1,7 +1,7 @@
 url: https://bitwarden.saiyans.com.ve
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2025-03-18T03:58:39.634Z
+status: down
+code: 403
+responseTime: 209
+lastUpdated: 2025-03-18T04:30:00.194Z
 startTime: 2022-04-08T18:12:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
