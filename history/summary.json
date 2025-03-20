@@ -232,7 +232,7 @@
     "uptime": "95.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.92%",
+    "uptimeMonth": "66.88%",
     "uptimeYear": "96.28%",
     "time": 325,
     "timeDay": 3362,
@@ -240,7 +240,7 @@
     "timeMonth": 1432,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2025-03-20": 1164,
+      "2025-03-20": 1179,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-03-20": 1164,
+      "2025-03-20": 1179,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -469,9 +469,9 @@
     "slug": "bitwarden",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "62.93%",
+    "uptimeDay": "61.95%",
     "uptimeWeek": "30.69%",
-    "uptimeMonth": "75.62%",
+    "uptimeMonth": "75.59%",
     "uptimeYear": "97.97%",
     "time": 649,
     "timeDay": 236,
@@ -479,7 +479,7 @@
     "timeMonth": 218,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-03-20": 497,
+      "2025-03-20": 511,
       "2025-03-19": 601,
       "2025-03-18": 969,
       "2025-03-17": 1123,
@@ -682,15 +682,15 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "64.29%",
-    "uptimeWeek": "32.98%",
-    "uptimeMonth": "75.06%",
-    "uptimeYear": "97.92%",
-    "time": 1025,
-    "timeDay": 485,
-    "timeWeek": 508,
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "64.90%",
+    "uptimeWeek": "33.12%",
+    "uptimeMonth": "75.62%",
+    "uptimeYear": "97.97%",
+    "time": 1023,
+    "timeDay": 466,
+    "timeWeek": 506,
     "timeMonth": 494,
     "timeYear": 403,
     "dailyMinutesDown": {
@@ -704,7 +704,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1260,
       "2025-03-11": 1118,
-      "2025-03-10": 625
+      "2025-03-10": 381
     }
   }
 ]
