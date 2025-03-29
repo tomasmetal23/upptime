@@ -232,7 +232,7 @@
     "uptime": "95.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.45%",
+    "uptimeMonth": "38.42%",
     "uptimeYear": "93.91%",
     "time": 369,
     "timeDay": 2815,
@@ -240,7 +240,7 @@
     "timeMonth": 2197,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-03-29": 675,
+      "2025-03-29": 688,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-03-29": 675,
+      "2025-03-29": 688,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -485,14 +485,14 @@
     "url": "https://bitwarden.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saiyans.com.ve.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "60.09%",
-    "uptimeWeek": "19.96%",
-    "uptimeMonth": "70.00%",
-    "uptimeYear": "97.50%",
-    "time": 480,
-    "timeDay": 248,
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "60.97%",
+    "uptimeWeek": "20.09%",
+    "uptimeMonth": "70.47%",
+    "uptimeYear": "97.54%",
+    "time": 479,
+    "timeDay": 250,
     "timeWeek": 237,
     "timeMonth": 222,
     "timeYear": 207,
@@ -510,7 +510,7 @@
       "2025-03-19": 601,
       "2025-03-18": 969,
       "2025-03-17": 1123,
-      "2025-03-16": 579
+      "2025-03-16": 374
     }
   },
   {
@@ -703,15 +703,15 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "47.42%",
-    "uptimeWeek": "23.13%",
-    "uptimeMonth": "71.64%",
+    "uptimeDay": "47.39%",
+    "uptimeWeek": "23.25%",
+    "uptimeMonth": "71.72%",
     "uptimeYear": "97.64%",
-    "time": 914,
-    "timeDay": 468,
-    "timeWeek": 458,
+    "time": 913,
+    "timeDay": 465,
+    "timeWeek": 454,
     "timeMonth": 488,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -727,8 +727,7 @@
       "2025-03-20": 605,
       "2025-03-19": 695,
       "2025-03-18": 1024,
-      "2025-03-17": 904,
-      "2025-03-16": 38
+      "2025-03-17": 904
     }
   }
 ]
