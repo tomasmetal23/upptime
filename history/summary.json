@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.saiyans.com.ve.ico",
     "slug": "saiyans-blog",
     "status": "up",
-    "uptime": "71.18%",
+    "uptime": "71.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.34%",
-    "uptimeYear": "44.14%",
-    "time": 748,
-    "timeDay": 1427,
-    "timeWeek": 1562,
-    "timeMonth": 1207,
-    "timeYear": 622,
+    "uptimeYear": "44.42%",
+    "time": 750,
+    "timeDay": 1209,
+    "timeWeek": 1597,
+    "timeMonth": 1206,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2025-05-27": 1365,
       "2025-05-26": 248,
@@ -228,8 +228,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -238,16 +237,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.saiyans.com.ve.ico",
     "slug": "https-file-mirror",
     "status": "up",
-    "uptime": "83.00%",
+    "uptime": "83.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.02%",
-    "uptimeYear": "55.42%",
+    "uptimeYear": "55.69%",
     "time": 291,
-    "timeDay": 203,
-    "timeWeek": 264,
-    "timeMonth": 283,
-    "timeYear": 230,
+    "timeDay": 231,
+    "timeWeek": 253,
+    "timeMonth": 284,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2025-05-21": 31,
       "2025-05-20": 317,
@@ -419,8 +418,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -434,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "93.93%",
-    "time": 759,
-    "timeDay": 1865,
-    "timeWeek": 1186,
-    "timeMonth": 1356,
-    "timeYear": 477,
+    "time": 751,
+    "timeDay": 1199,
+    "timeWeek": 1218,
+    "timeMonth": 1357,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2025-06-01": 26,
       "2025-05-28": 36,
