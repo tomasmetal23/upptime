@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.saiyans.com.ve.ico",
     "slug": "saiyans-blog",
     "status": "up",
-    "uptime": "71.26%",
-    "uptimeDay": "55.13%",
+    "uptime": "71.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.58%",
     "uptimeMonth": "93.40%",
-    "uptimeYear": "45.35%",
-    "time": 785,
-    "timeDay": 1912,
-    "timeWeek": 3446,
-    "timeMonth": 1579,
-    "timeYear": 676,
+    "uptimeYear": "45.63%",
+    "time": 784,
+    "timeDay": 741,
+    "timeWeek": 2996,
+    "timeMonth": 1556,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2025-06-14": 713,
       "2025-06-13": 136,
@@ -225,8 +225,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   },
   {
@@ -235,15 +234,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.saiyans.com.ve.ico",
     "slug": "https-file-mirror",
     "status": "up",
-    "uptime": "83.02%",
-    "uptimeDay": "55.13%",
+    "uptime": "83.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.58%",
     "uptimeMonth": "97.08%",
-    "uptimeYear": "56.63%",
+    "uptimeYear": "56.90%",
     "time": 234,
-    "timeDay": 224,
-    "timeWeek": 248,
-    "timeMonth": 286,
+    "timeDay": 270,
+    "timeWeek": 259,
+    "timeMonth": 287,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-06-14": 713,
@@ -413,8 +412,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   },
   {
@@ -428,11 +426,11 @@
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "93.93%",
-    "time": 720,
-    "timeDay": 1017,
-    "timeWeek": 2244,
-    "timeMonth": 1626,
-    "timeYear": 490,
+    "time": 717,
+    "timeDay": 949,
+    "timeWeek": 2219,
+    "timeMonth": 1620,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-06-12": 141,
       "2025-06-01": 26,
