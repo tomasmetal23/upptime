@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.saiyans.com.ve.ico",
     "slug": "saiyans-blog",
     "status": "up",
-    "uptime": "71.67%",
+    "uptime": "71.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.06%",
-    "uptimeYear": "50.00%",
-    "time": 786,
-    "timeDay": 1379,
-    "timeWeek": 1396,
-    "timeMonth": 1748,
-    "timeYear": 729,
+    "uptimeYear": "50.28%",
+    "time": 785,
+    "timeDay": 1680,
+    "timeWeek": 1502,
+    "timeMonth": 1775,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-06-14": 713,
       "2025-06-13": 136,
@@ -208,8 +208,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -218,16 +217,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.saiyans.com.ve.ico",
     "slug": "https-file-mirror",
     "status": "up",
-    "uptime": "83.27%",
+    "uptime": "83.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.06%",
-    "uptimeYear": "61.29%",
+    "uptimeYear": "61.56%",
     "time": 238,
-    "timeDay": 245,
-    "timeWeek": 295,
-    "timeMonth": 329,
-    "timeYear": 243,
+    "timeDay": 464,
+    "timeWeek": 332,
+    "timeMonth": 338,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2025-06-14": 713,
       "2025-06-13": 135,
@@ -379,8 +378,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -394,11 +392,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "93.93%",
-    "time": 634,
-    "timeDay": 1113,
-    "timeWeek": 1115,
-    "timeMonth": 1420,
-    "timeYear": 502,
+    "time": 626,
+    "timeDay": 1108,
+    "timeWeek": 1124,
+    "timeMonth": 1423,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2025-06-12": 141,
       "2025-06-01": 26,
