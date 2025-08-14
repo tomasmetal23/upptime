@@ -8,8 +8,8 @@
     "uptime": "72.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.13%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "60.11%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "60.12%",
     "time": 837,
     "timeDay": 848,
     "timeWeek": 4329,
@@ -195,7 +195,7 @@
     "timeMonth": 278,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-08-14": 931,
+      "2025-08-14": 977,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -331,16 +331,16 @@
     "url": "https://notas.saiyans.com.ve",
     "icon": "https://icons.duckduckgo.com/ip3/notas.saiyans.com.ve.ico",
     "slug": "real-time-markdown-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "96.12%",
-    "uptimeDay": "97.71%",
+    "uptimeDay": "97.69%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "25.32%",
-    "uptimeYear": "86.97%",
+    "uptimeMonth": "25.42%",
+    "uptimeYear": "86.98%",
     "time": 502,
-    "timeDay": 883,
-    "timeWeek": 988,
-    "timeMonth": 482,
+    "timeDay": 698,
+    "timeWeek": 903,
+    "timeMonth": 474,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2025-08-14": 33,
@@ -404,7 +404,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 731,
-      "2025-03-20": 461
+      "2025-03-20": 409
     }
   }
 ]
