@@ -1,7 +1,7 @@
 url: $MIRROR_URL_SECRET
-status: down
-code: 404
-responseTime: 370
-lastUpdated: 2026-10-08T02:34:22.928Z
+status: up
+code: 200
+responseTime: 400
+lastUpdated: 2026-10-08T07:20:52.337Z
 startTime: 2022-04-08T18:12:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
